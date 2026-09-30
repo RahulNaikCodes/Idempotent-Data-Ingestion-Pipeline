@@ -1,0 +1,15 @@
+ACME INDUSTRIAL SUPPLY CO.
+INVOICE #INV-2024-0042
+Date Issued: March 1, 2024        Payment Due: March 31, 2024
+
+Bill To: Globex Corp
+
+Qty   Description               Unit Price    Amount
+2     Hex bolts (box of 50)       $5.00       $10.00
+1     Safety goggles             $20.00       $20.00
+
+Subtotal:     $40.00
+Tax (10%):     $3.00
+TOTAL DUE:    $43.00
+
+(Deliberate error for testing: the two items add up to $30.00, not $40.00.)
